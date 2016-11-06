@@ -344,3 +344,5 @@
   
 ## Financial App Analysis
  + DroydSeuss: A Mobile Banking Trojan Tracker, TechReport? 2014 (tool: DroydSeuss)
+ + Mo(bile) Money, Mo(bile) Problems: Analysis of Branchless Banking Applications in the DevelopingWorld, USENIX Security 2015
+ 
